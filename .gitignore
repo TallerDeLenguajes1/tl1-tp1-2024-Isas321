@@ -1,0 +1,5 @@
+# Ignorar los ejecutables
+*.exe
+
+# Ignorar la carpeta de git
+.git/

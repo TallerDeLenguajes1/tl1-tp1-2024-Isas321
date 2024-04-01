@@ -1,0 +1,10 @@
+Regla de como ignorar un archivo con gitignore
+
+1.Creamos un archivo .gitignore en la raiz del repositorio
+2.Dentro del archivo especificamos los archivos que deseamos que se ignoren
+
+# Ignorar archivos .txt
+*.txt
+
+# Ignorar la carpeta node_modules
+node_modules/
