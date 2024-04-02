@@ -75,5 +75,6 @@ int main(){
     printf("\nOrdeno valores");
     ordenar(&valor1,&valor2);
     printf("\nvalor1=%d, valor2=%d",valor1,valor2);
+    
     return 0;
 }
